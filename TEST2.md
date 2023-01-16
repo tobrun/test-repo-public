@@ -1,0 +1,1 @@
+Test a commit that affects both subtrees
